@@ -10,5 +10,9 @@ public class ApplicationDbContext : DbContext
     }
 
     public DbSet<Genero> Generos { get; set; }
-    public DbSet<Images> viajefoto { get; set; }
+    public DbSet<Images> Viajefoto { get; set; }
+    public DbSet<UserApplication> UsuarioAplicacion { get; set; }
+    public DbSet<AccessUserApplication> AccesoUsuarioAplicacion { get; set; }
+    public DbSet<Contact> Contacto { get; set; }
+    public DbSet<Installer> Instalador { get; set; }
 }
