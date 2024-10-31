@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DOBbxHfU4hs8muPzkLAMhmjDRgHUPElrRSYbLnPw9eNYnt2JVOtL7kaOTkm5MqChIBimJdRl2QfxDT9lyXUevg==",
+  "dgSpecHash": "NjG6Jjy6O+K0wF3lchMNBPhEavy1E8jTsyTtFFq0Bebmno9dTBvjPsOs7DI4sJ0GlS+fj3fdNqmwn2KHvncVRg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\web-api-test\\web-api-test.csproj",
+  "projectFilePath": "C:\\Users\\esteban.alzate\\Desktop\\Projects\\.net\\web-api-test\\web-api-test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esteban.alzate\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\esteban.alzate\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

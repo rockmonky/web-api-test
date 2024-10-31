@@ -36,7 +36,7 @@ public class Contact
 public class Installer
 {
     [Key]
-    public int in_id { get; set; }
+    public short in_id { get; set; }
     public int co_id { get; set; }
     public DateTime? in_fechafin { get; set; }
 }
