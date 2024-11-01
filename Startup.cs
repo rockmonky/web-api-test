@@ -45,6 +45,8 @@ public class Startup
 
         app.UseAuthorization();
 
+        app.UseMiddleware<JwtMiddleware>();
+
         app.UseEndpoints(endpoints =>
         {
             endpoints.MapControllers();
